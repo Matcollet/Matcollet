@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matcollet
-- 🌱 I’m currently learning React, HTML, CSS, JS.
+- 🌱 I’m currently learning Next.js, React, HTML, CSS, JS.
 - 😄 Pronouns: he/him
 
 <!---
